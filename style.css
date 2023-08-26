@@ -1,0 +1,140 @@
+html{
+    background:black;
+    background-image:url(./bird-photography-14.jpg);
+}
+.orange{
+    width:500px;
+    height:100px;
+    background: orange;
+    position:relative;
+    left:500px;
+    
+}
+.white{
+    background: white;
+    width:500px;
+    height:100px;
+    position:relative;
+    left:500px;
+    
+}
+
+.green{
+    background-color: rgb(25, 248, 25);
+    width: 500px;
+    height: 100px;
+    position:relative;
+    left:500px;
+
+
+}
+.blue{
+   background-color: white;
+   width: 100px;
+   height: 100px;
+   border-radius: 50%;
+   border:5px solid navy;
+   position:relative;
+   bottom: 201px;
+   left: 700px;
+}
+.spoke{
+    background-color: rgb(67, 67, 146);
+    width:20px;
+    height:20px;
+    border-radius:50%;
+    position:absolute;
+    left:40px;
+    top:40px
+}
+.chakra{
+    width: 96px;
+    height: 96px;
+    border:2px solid blue;
+    border-radius: 50%;
+    margin: auto;
+    }
+   
+    .chakra li{
+    list-style: none;
+    width: 94px;
+    border: 1px solid blue;
+    position: relative;
+    }
+   
+    li:nth-child(1){
+    top: 47px;
+    }
+   
+    li:nth-child(2){
+    top: 45px;
+    transform: rotate(90deg);
+    }
+   
+    li:nth-child(3){
+    top: 43px;
+    transform: rotate(15deg);
+    }
+   
+    li:nth-child(4){
+    top: 41px;
+    transform: rotate(30deg);
+    }
+   
+    li:nth-child(5){
+    top: 39px;
+    transform: rotate(45deg);
+    }
+   
+    li:nth-child(6){
+    top: 37px;
+    transform: rotate(60deg);
+    }
+   
+    li:nth-child(7){
+    top: 35px;
+    transform: rotate(75deg);
+    }
+   
+    li:nth-child(8){
+    top: 33px;
+    transform: rotate(105deg);
+    }
+    li:nth-child(9){
+    top: 31px;
+    transform: rotate(120deg);
+    }
+   
+    li:nth-child(10){
+    top: 29px;
+    transform: rotate(135deg);
+    }
+    li:nth-child(11){
+    top: 27px;
+    transform: rotate(150deg);
+    }
+   
+    li:nth-child(12){
+    top: 25px;
+    transform: rotate(165deg);
+    }
+  
+  p{ 
+    font-size:40px;
+    color:black;
+    position:relative;
+    left:00px;
+    bottom:50px;
+
+  }
+  #main{
+    color:mediumvioletred;
+    font-size :70px;
+    text-align: center;
+  }
+  
+  
+
+
+   
+  
